@@ -21,8 +21,8 @@
         </style>
     </head>
     <body class="antialiased">
-       Hoi Raphael, welkom bij in-facts 2.0!
+    <h1>Hoi Raphael, welkom bij in-facts 2.0!</h1>
 
-    Groetjes, Laravel ;)
+    <h2>Groetjes, Laravel ;)</h2>
     </body>
 </html>
